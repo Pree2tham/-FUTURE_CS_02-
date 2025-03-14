@@ -41,3 +41,4 @@ This project simulates phishing attacks and social engineering scenarios, analyz
 Run the simulation:
 ```bash
 python simulate.py
+
