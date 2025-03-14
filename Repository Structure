@@ -1,0 +1,14 @@
+social-engineering-and-phishing-simulation/
+├── README.md               # Project overview, setup, and usage
+├── .gitignore              # Exclude sensitive files (e.g., .env, output data)
+├── requirements.txt        # Python dependencies (if applicable)
+├── scripts/                # Simulation scripts
+│   ├── phishing_simulation.py
+│   └── social_engineering_tools/
+├── docs/                   # Documentation and guidelines
+│   ├── ethical_guidelines.md
+│   └── report_template.md
+├── reports/                # Generated reports (PDF/HTML/Markdown)
+│   └── 2023-10-01_report.md
+├── outputs/                # Simulation outputs (e.g., logs, CSV data)
+│   └── phishing_results.csv
