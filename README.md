@@ -1,8 +1,5 @@
 # -FUTURE_CS_02-
 A repository to simulate social engineering and phishing attacks, generate reports, and store outputs."
-# -FUTURE_CS_02-
-
-A repository to simulate social engineering and phishing attacks, generate reports, and store outputs.
 
 ## Table of Contents
 
@@ -10,7 +7,7 @@ A repository to simulate social engineering and phishing attacks, generate repor
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
